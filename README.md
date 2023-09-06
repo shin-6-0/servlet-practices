@@ -1,6 +1,4 @@
 # servlet-practices
-<<<<<<< HEAD
 포스코DX청년IT전문가과정 6기 - ServletPractices
 =======
 포스코DX청년IT전문가과정 6기 - Servlet 연습
->>>>>>> refs/remotes/origin/main
