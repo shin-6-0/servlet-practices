@@ -13,7 +13,7 @@
     <description></description>
     <display-name>HelloServlet</display-name>
     <servlet-name>HelloServlet</servlet-name>
-    <servlet-class>helloweb.servlets.HelloServlet</servlet-class>
+    <servlet-class>servlets.HelloServlet</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>HelloServlet</servlet-name>
