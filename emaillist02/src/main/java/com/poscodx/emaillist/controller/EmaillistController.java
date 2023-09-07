@@ -19,8 +19,9 @@ public class EmaillistController extends HttpServlet {
 		request.setCharacterEncoding("UTF-8");
 		
 		String action = request.getParameter("a");
-		
+		System.out.println("action = "+action);
 		if("add".equals(action)) {
+			System.out.println("emaillist add에 들어옴");
 			String firstName = request.getParameter("fn");
 			String lastName = request.getParameter("ln");
 			String email = request.getParameter("email");
