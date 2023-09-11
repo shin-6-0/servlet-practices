@@ -10,8 +10,6 @@
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
   <servlet>
-    <description></description>
-    <display-name>HelloServlet</display-name>
     <servlet-name>HelloServlet</servlet-name>
     <servlet-class>servlets.HelloServlet</servlet-class>
   </servlet>
