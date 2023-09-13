@@ -32,7 +32,8 @@
 		    <groupId>javax.servlet.jsp</groupId>
 		    <artifactId>jsp-api</artifactId>
 		    <version>2.2</version>
-		</dependency>				
+		    <scope>provided</scope>
+		</dependency>			
 	</dependencies>
 	
 	<build>
